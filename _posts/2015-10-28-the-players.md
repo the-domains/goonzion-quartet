@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-28T21:41:24.208Z'
-dateModified: '2015-10-28T21:41:02.080Z'
+datePublished: '2015-10-28T21:50:54.057Z'
+dateModified: '2015-10-28T21:50:50.111Z'
 title: The Players
+sourcePath: _posts/2015-10-28-the-players.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-28-the-players.md
-published: true
 url: the-players/index.html
 _type: WebPage
 

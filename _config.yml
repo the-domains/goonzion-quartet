@@ -1,7 +1,7 @@
 name: Goonzion Quartet
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.45551
+layout_spectrum: 0.81084
+typography_spectrum: 0.61188
 collections:
   - index:
       navigable: true
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#910E15'
-    - '#390404'
-    - '#FFFFFA'
-    - '#6E5B4B'
-    - '#C5AD91'
-  brandStrength: 0
+    - '#d0d2cd'
+    - '#0e0e10'
+    - '#fefefe'
+    - '#808275'
+    - '#58b98c'
+  brandStrength: 1
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []

@@ -1,7 +1,15 @@
-name: Goonzion Quartet
+layout_spectrum: 0.9435076
 favicon: null
-layout_spectrum: 0.81084
-typography_spectrum: 0.61188
+name: Goonzion Quartet
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -15,26 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 1
+  saturation: 0.0625
   brandColors:
     - '#d0d2cd'
     - '#0e0e10'
     - '#fefefe'
     - '#808275'
     - '#58b98c'
-  brandStrength: 1
   lightness: 0
-  saturation: 0.0625
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.61188
